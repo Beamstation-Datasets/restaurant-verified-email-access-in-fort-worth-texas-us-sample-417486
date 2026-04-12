@@ -1,0 +1,12 @@
+{
+  "export_job_id": "90115550-9496-439e-8714-648b9295d496",
+  "id_short": 417486,
+  "published_at": "2026-04-12T07:43:28Z",
+  "repo_name": "restaurant-verified-email-access-in-fort-worth-texas-us-sample-417486",
+  "sample_asset_name": "beamstation_417486_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/417486/beamstation_417486_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "be0a1d738ebac7c2ff5a89445f13f59ad9444af71aeda9d5ff21f9af03a5c78a",
+  "sample_size_bytes": 54830,
+  "total_records": 298
+}
