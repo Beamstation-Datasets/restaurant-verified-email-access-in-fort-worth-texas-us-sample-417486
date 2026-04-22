@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Fort Worth, Texas, US
 
-> Free BeamStation sample export with 44 rows and masked direct-contact fields.
+> Free BeamStation sample export with 23 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `417486` |
 | Location | Fort Worth |
 | Category | Restaurants |
-| Full dataset size | 442 records |
-| Free sample size | 44 records (9.95%) |
-| Last export | 2026-04-15T02:45:50.938593+00:00 |
+| Full dataset size | 239 records |
+| Free sample size | 23 records (9.62%) |
+| Last export | 2026-04-22T07:46:16.695492+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-fort-worth-texas-us-sample-417486/releases/download/sample-latest/beamstation_417486_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
